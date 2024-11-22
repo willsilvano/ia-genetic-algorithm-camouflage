@@ -4,9 +4,7 @@ This project demonstrates the use of a Genetic Algorithm (GA) to evolve a popula
 
 ## Demo
 
-<div style="border: 1px solid white; border-radius: 1px; display: inline-block;">
-    <img src="./camouflage.gif" alt="Demo da Aplicação">
-</div>
+![Demo](./camouflage.gif)
 
 ## Features
 - **Real-time Evolution Visualization**: Watch the population evolve in real time towards the target color.
