@@ -2,6 +2,8 @@
 
 This project demonstrates the use of a Genetic Algorithm (GA) to evolve a population of colors towards a target color. The objective is to match a randomly chosen color (in RGB format) by combining different random colors through crossover and mutation. The GA process is visualized using Streamlit, allowing real-time observation of the evolutionary process.
 
+![Demo](./camouflage.gif)
+
 ## Features
 - **Real-time Evolution Visualization**: Watch the population evolve in real time towards the target color.
 - **Flexible Parameter Adjustment**: Easily adjust mutation rate, crossover, population size, and other parameters.
